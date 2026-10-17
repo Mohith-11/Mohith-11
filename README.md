@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:38BDF8&height=200&section=header&text=Mohith%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20RAG%20%C2%B7%20Speech%20%26%20NLP%20%C2%B7%20Backend&descAlignY=60&descSize=18" width="100%" alt="Mohith V banner"/>
 
   <a href="https://github.com/Mohith-11">
@@ -181,17 +181,6 @@ I'm **Mohith V**, an AI & ML undergrad pursuing a B.E. in Artificial Intelligenc
 
 <sub>🎓 <b>B.E. AI & ML</b> · Chennai Institute of Technology · CGPA <b>8.82</b> | 2024–2028</sub>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohith-11&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=2563EB&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Mohith-11&hide_border=true&background=0D1117&stroke=38BDF8&ring=2563EB&fire=EA4335&currStreakLabel=38BDF8" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-11&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="Top languages"/>
 </div>
 
 ---
