@@ -21,6 +21,10 @@
 
 ## 🧭 About Me
 
+<table>
+<tr>
+<td valign="top" width="70%">
+
 I'm **Mohith V**, an AI & ML undergrad pursuing a B.E. in Artificial Intelligence & Machine Learning at Chennai Institute of Technology *(CGPA 8.82)*. I build applied AI systems that turn raw data (video, audio, text, network traffic) into decisions people can act on.
 
 - 🎥 **Computer vision in production style:** multi-camera analytics with YOLO11m, BoT-SORT, NVIDIA DeepStream and TensorRT (Python + C++).
@@ -29,6 +33,13 @@ I'm **Mohith V**, an AI & ML undergrad pursuing a B.E. in Artificial Intelligenc
 - 🛡️ **ML for security:** DDoS detection on CICIDS2017 with **99.73%** average 5-fold CV F1.
 - 🛠️ **Backend by default:** FastAPI, Flask, WebSockets, Redis, Celery, SQLite.
 - 🏆 **Hackathon builder:** 2nd at Pragyan × Kanini (1,300+ teams).
+
+</td>
+<td valign="top" align="center" width="30%">
+  <img src="profile.jpeg" width="200" style="border-radius: 12px;" alt="Mohith V"/>
+</td>
+</tr>
+</table>
 
 ---
 
