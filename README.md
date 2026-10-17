@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:38BDF8&height=200&section=header&text=Mohith%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20RAG%20%C2%B7%20Speech%20%26%20NLP%20%C2%B7%20Backend&descAlignY=60&descSize=18" width="100%" alt="Mohith V banner"/>
+  <img src="profile.jpeg" width="100%" style="border-radius: 16px; max-height: 340px; object-fit: cover; object-position: top;" alt="Mohith V"/>
 
   <a href="https://github.com/Mohith-11">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+applied+AI+systems;Video+analytics+%E2%80%A2+RAG+%E2%80%A2+Speech+%26+NLP;YOLO+%2B+DeepStream+%2B+TensorRT+pipelines;FastAPI+back+ends+%E2%80%A2+Real-time+apps" alt="Typing SVG"/>
@@ -21,9 +21,7 @@
 
 ## 🧭 About Me
 
-<table>
-<tr>
-<td valign="top" width="70%">
+
 
 I'm **Mohith V**, an AI & ML undergrad pursuing a B.E. in Artificial Intelligence & Machine Learning at Chennai Institute of Technology *(CGPA 8.82)*. I build applied AI systems that turn raw data (video, audio, text, network traffic) into decisions people can act on.
 
@@ -33,13 +31,6 @@ I'm **Mohith V**, an AI & ML undergrad pursuing a B.E. in Artificial Intelligenc
 - 🛡️ **ML for security:** DDoS detection on CICIDS2017 with **99.73%** average 5-fold CV F1.
 - 🛠️ **Backend by default:** FastAPI, Flask, WebSockets, Redis, Celery, SQLite.
 - 🏆 **Hackathon builder:** 2nd at Pragyan × Kanini (1,300+ teams).
-
-</td>
-<td valign="top" align="center" width="30%">
-  <img src="profile.jpeg" width="200" style="border-radius: 12px;" alt="Mohith V"/>
-</td>
-</tr>
-</table>
 
 ---
 
