@@ -188,10 +188,10 @@ I'm **Mohith V**, an AI & ML undergrad pursuing a B.E. in Artificial Intelligenc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohith-11&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=2563EB&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohith-11&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=2563EB&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=Mohith-11&hide_border=true&background=0D1117&stroke=38BDF8&ring=2563EB&fire=EA4335&currStreakLabel=38BDF8" alt="GitHub streak"/>
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohith-11&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-11&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="Top languages"/>
 </div>
 
 ---
